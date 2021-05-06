@@ -28,10 +28,10 @@
   <link href="css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-    Theme Name: NewBiz
-    Theme URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
+    Theme Name: Rebsindia
+    Theme URL: https://rebsindiabusinesssolutions.web.app/
+    Author: Rebsindia
+    License: https://rebsindiabusinesssolutions.web.app/license/
   ======================================================= -->
 </head>
 
@@ -93,7 +93,7 @@
       <div class="intro-info">
         <h2>We provide<br><span>solutions</span><br>for your business!</h2>
         <div>
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          <a href="#contact" class="btn-get-started scrollto">Get Started</a>
           <a href="#services" class="btn-services scrollto">Our Services</a>
         </div>
       </div>
